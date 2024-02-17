@@ -110,7 +110,7 @@ $$
 $$
 \begin{align*}
 \lim_{p^\prime \to p} \langle p^\prime, \pm j | J^0 | p, \pm j \rangle &= \frac{q}{(2\pi)^3}, \\
-\lim_{p^\prime \to p} \langle p^\prime, \pm j | T^{0\nu} | p, \pm j \rangle &= \frac{p^\mu}{(2\pi)^3}.
+\lim_{p^\prime \to p} \langle p^\prime, \pm j | T^{0\nu} | p, \pm j \rangle &= \frac{p^\nu}{(2\pi)^3}.
 \end{align*}
 $$
 Recall that
