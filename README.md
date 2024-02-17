@@ -1,11 +1,3 @@
----
-title: "Weinberg-Witten Theorem"
-author: "Zichun Hao"
-output:
-  pdf_document:
-    keep_tex: true
----
-
 - [Weinberg-Witten Theorem](#weinberg-witten-theorem)
   - [Statement](#statement)
 - [Notes](#notes)
@@ -14,7 +6,7 @@ output:
   - [Proof](#proof)
   - [Consequences](#consequences)
     - [Bosons We Know](#bosons-we-know)
-  - [No Background for Emergent Gravity](#no-background-for-emergent-gravity)
+    - [No Background for Emergent Gravity](#no-background-for-emergent-gravity)
   - [Evading the Weinberg-Witten Theorem](#evading-the-weinberg-witten-theorem)
 - [References](#references)
 
@@ -270,7 +262,7 @@ T^{\mu \nu} = \frac{1}{\sqrt{-g}} \frac{\delta S}{\delta g_{\mu \nu}}.
 $$
 represents all the energy except for gravitational energy, and therefore, we can say that the graviton is not charged under the energy-momentum tensor.
 
-## No Background for Emergent Gravity
+### No Background for Emergent Gravity
 -  We cannot compose a graviton from massless particles in Minkowski spacetime which are charged under a Lorentz covariant current.
     - If we would, for example, try to compose the spin $2$ graviton out of two spin $1$ gluons, the gluons
 would contribute to a Lorentz covariant energy momentum tensor. This implies that their four-momentum can be described by $\int T^{0 \nu} \mathrm{d}^3 x$ Accordingly, the graviton would be charged under this tensor. This possibility for an emerging graviton was ruled out by the Weinberg-Witten theorem.
