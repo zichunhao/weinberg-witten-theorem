@@ -8,11 +8,15 @@ output:
 
 - [Weinberg-Witten Theorem](#weinberg-witten-theorem)
   - [Statement](#statement)
-- [Reading Notes of Loebbert's "The Weinberg-Witten Theorem on Massless Particles: An Essay"](#reading-notes-of-loebberts-the-weinberg-witten-theorem-on-massless-particles-an-essay)
+- [Notes](#notes)
   - [Introduction](#introduction)
   - [Classification of Particles from the Poincaré Group](#classification-of-particles-from-the-poincar%C3%A9-group)
   - [Proof](#proof)
   - [Consequences](#consequences)
+    - [Bosons We Know](#bosons-we-know)
+  - [No Background for Emergent Gravity](#no-background-for-emergent-gravity)
+  - [Evading the Weinberg-Witten Theorem](#evading-the-weinberg-witten-theorem)
+- [References](#references)
 
 
 ---
