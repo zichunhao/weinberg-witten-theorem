@@ -155,7 +155,7 @@ $$
 This means that $J^\mu$ and $T^{\mu \nu}$ are conserved tensors.
 - For arbitary light-like $p$ and $p^\prime$, we have
 $$
-(p^\prime + p) = 2 |\mathbf{p}| |\mathbf{p}^\prime| (\cos(\phi) - 1) \leq 0,
+(p^\prime + p)^2 = 2 |\mathbf{p}| |\mathbf{p}^\prime| (\cos(\phi) - 1) \leq 0,
 $$
 where $\phi$ is the angle between $\mathbf{p}$ and $\mathbf{p}^\prime$. We will consider the limit $p^\prime \to p$. 
     - For $\phi \neq 0$, we consider a frame in which
