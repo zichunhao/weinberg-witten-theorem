@@ -16,7 +16,7 @@
 
 # Weinberg-Witten Theorem
 ## Statement
-1. A theory containing a Poincaré covariant conserved four-vector current $J^\mu$ forbids masless particles of spin $j > 1/2$ with a non-vanishing eigenvalue of the conserved charge $Q = \int J^0 \mathrm{d}^3 x$.
+1. A theory containing a Poincaré covariant conserved four-vector current $J^\mu$ forbids massless particles of spin $j > 1/2$ with a non-vanishing eigenvalue of the conserved charge $Q = \int J^0 \mathrm{d}^3 x$.
     - **Construction mode**: A massless particle with spin $j > 1/2$ cannot carry a charge induced by a conserved Poincaré covariant four-vector current.
     - Contrapositive: If a massless charged particle of spin $j > 1/2$ exists, then the theory does not contain a Poincaré covariant conserved four-vector current $J^\mu$.
 2. A theory containing a Poincaré covariant conserved energy-momentum tensor $T^{\mu \nu}$ forbids massless particles of spin $j > 1$ for which $\int T^{0 \nu} \mathrm{d}^3 x$ is the conserved energy-momentum four-vector.
